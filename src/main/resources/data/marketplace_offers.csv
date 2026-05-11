@@ -1,0 +1,11 @@
+offer_id,product_name,product_category,partner_bank,interest_rate,min_amount,max_amount,term_months,target_account_type,valid_from,valid_until
+MKT-001,Empréstimo Pessoal Flex,LOAN,Banco Parceiro A,0.0189,1000.00,50000.00,24,ALL,2024-01-01,2024-12-31
+MKT-002,Cartão Platinum Cashback,CREDIT_CARD,Banco Parceiro B,0.0299,500.00,20000.00,12,CHECKING,2024-01-01,2024-06-30
+MKT-003,Investimento CDB 110% CDI,INVESTMENT,Banco Parceiro C,0.1100,5000.00,500000.00,36,SAVINGS,2024-01-01,2024-12-31
+MKT-004,Seguro Vida Premium,INSURANCE,Seguradora XYZ,0.0050,100.00,10000.00,12,ALL,2024-02-01,2024-12-31
+MKT-005,Crédito Consignado,LOAN,Banco Parceiro D,0.0149,2000.00,100000.00,60,CHECKING,2024-01-15,2024-09-30
+MKT-006,Tesouro Direto Plus,INVESTMENT,Banco Parceiro E,0.1050,1000.00,1000000.00,24,SAVINGS,2024-01-01,2024-12-31
+MKT-007,Cartão Black Viagens,CREDIT_CARD,Banco Parceiro F,0.0349,1000.00,30000.00,12,ALL,2024-03-01,2024-12-31
+MKT-INVALID,,LOAN,Banco X,0.02,500.00,5000.00,12,ALL,2024-01-01,2024-12-31
+MKT-008,Fundo Multimercado,INVESTMENT,Banco Parceiro G,0.0920,10000.00,2000000.00,48,SAVINGS,2024-01-01,2024-12-31
+MKT-009,Seguro Residencial,INSURANCE,Seguradora ABC,0.0030,50.00,5000.00,12,ALL,2024-02-01,2024-11-30

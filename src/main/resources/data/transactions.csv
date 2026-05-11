@@ -1,0 +1,13 @@
+account_number,transaction_type,amount,description,transaction_date
+ACC-001,CREDIT,1500.00,Salary deposit,2024-01-05 09:00:00
+ACC-001,DEBIT,200.00,ATM withdrawal,2024-01-06 10:30:00
+ACC-002,CREDIT,3000.00,Wire transfer in,2024-01-05 11:00:00
+ACC-002,DEBIT,150.50,Utility bill payment,2024-01-07 14:00:00
+ACC-003,CREDIT,500.00,Interest payment,2024-01-08 08:00:00
+ACC-003,DEBIT,1200.00,Mortgage payment,2024-01-09 09:00:00
+ACC-004,CREDIT,300.00,Freelance income,2024-01-10 12:00:00
+ACC-005,CREDIT,8000.00,Business revenue,2024-01-05 09:00:00
+ACC-005,DEBIT,2500.00,Supplier payment,2024-01-11 15:00:00
+INVALID-ACC,CREDIT,100.00,Should be skipped,2024-01-01 00:00:00
+ACC-001,INVALID_TYPE,50.00,Bad type - skipped,2024-01-12 10:00:00
+ACC-002,DEBIT,-99.00,Negative amount - skipped,2024-01-13 10:00:00
